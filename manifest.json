@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Bandcamp Merch Sold Out Segementation",
+  "name": "Bandcamp Merch Sorter",
   "version": "1.0",
-  "description": "Reorganizes the merch items on a bandcamp page to relocate sold out items to the bottom of the page.",
+  "description": "Reorganizes bandcamp merch, moving sold out items to the bottom of the page.",
   "icons": {
-    "48": "favicon-32x32.png"
+    "32": "favicon-32x32.png"
   },
   "browser_specific_settings": {
     "gecko": {
