@@ -4,11 +4,11 @@
   "version": "1.0",
   "description": "Reorganizes bandcamp merch for easier shopping, moving sold out items to the bottom of the page.",
   "icons": {
-    "32": "favicon-32x32.png"
+    "32": "icons/favicon-32x32.png"
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "bc-merch-sort"
+      "id": "bc-merch-sort@example.com"
     }
   },
   "content_scripts": [
