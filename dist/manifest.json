@@ -2,13 +2,13 @@
   "manifest_version": 2,
   "name": "Bandcamp Merch Sorter",
   "version": "1.0",
-  "description": "Reorganizes bandcamp merch, moving sold out items to the bottom of the page.",
+  "description": "Reorganizes bandcamp merch for easier shopping, moving sold out items to the bottom of the page.",
   "icons": {
     "32": "favicon-32x32.png"
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "bc-merch-sort@example.com"
+      "id": "bc-merch-sort"
     }
   },
   "content_scripts": [

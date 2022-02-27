@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "web-ext run --watch-file index.js --start-url www.bandcamp.com --browser-console --verbose",
-    "build": "web-ext build"
+    "start": "web-ext run --source-dir ./dist --watch-file index.js --start-url www.bandcamp.com --browser-console --verbose",
+    "build": "web-ext build --source-dir ./dist --artifacts-dir ./build"
   },
   "repository": {
     "type": "git",
